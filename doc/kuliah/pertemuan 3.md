@@ -5,7 +5,7 @@ QGIS NATURAL EARTH DATA PHYSICAL
 
 
 <p align="center">
-  <img src="https://github.com/nadiaaaAR/Geographic-Information-System/blob/master/img/QGIS.PNG">
+  <img src="https://github.com/nadiaaaAR/Geographic-Information-System/blob/master/img/QGIS.png">
 </p>
 
 
@@ -41,7 +41,7 @@ Informasi lebih lanjut tentang QGIS dapat ditemukan di situs web www.qgis.org at
 **B. Natural Earth Data Physical**
 
 <p align="center">
-  <img src="https://github.com/nadiaaaAR/Geographic-Information-System/blob/master/img/fisik.PNG">
+  <img src="https://github.com/nadiaaaAR/Geographic-Information-System/blob/master/img/fisik.png">
 </p>
 
 > - Pantai - pantai laut, termasuk pulau-pulau besar. Pantai cocok untuk tanah dan air poligon.
