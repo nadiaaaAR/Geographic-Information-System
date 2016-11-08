@@ -28,7 +28,7 @@ Retrive Data Geospasial adalah salah satu cara untuk mengambil data geometri dan
 
 
 
-**b. Operasi Pengambilan data dengan Python **
+**b. Operasi Pengambilan data dengan Python**
 
 Membaca Jumlah data Geometri :<br>
 **>> import shapefile** <br>
