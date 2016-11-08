@@ -31,16 +31,16 @@ Retrive Data Geospasial adalah salah satu cara untuk mengambil data geometri dan
 **b. Operasi Pengambilan data dengan Python **
 
 Membaca Jumlah data Geometri :<br>
-**>> import shapefile**
-**>>sf = shapefile.Reader(“namafile.shp”)**
-**>>sf.shapes()**
-**>>a = sf.shapes()**
-**>>len(a)**
+**>> import shapefile** <br>
+**>>sf = shapefile.Reader(“namafile.shp”<br>
+**>>sf.shapes()**<br>
+**>>a = sf.shapes()**<br>
+**>>len(a)**<br>
 
 Membaca Jumlah data Geometri :<br>
-**>> import shapefile**
-**>>sf.records()**
-**>>sf.records(n)**
+**>> import shapefile**<br>
+**>>sf.records()**<br>
+**>>sf.records(n)**<br>
 
 
 **3. Penutup**
