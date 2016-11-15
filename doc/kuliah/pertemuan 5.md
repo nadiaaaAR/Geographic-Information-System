@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/nadiaaaAR/Geographic-Information-System/blob/master/img/5.jpg">
+  <img src="https://github.com/nadiaaaAR/Geographic-Information-System/blob/master/img/5.png">
 </p>
 
 
