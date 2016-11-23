@@ -1,6 +1,6 @@
 <h3 align="center">SISTEM INFORMASI GEOGRAFIS</h3>
 <h3 align="center">
-"WRITE, EDIT, READ dan DELETE Data Geospasial - Pertemuan 6 GISE"
+"WRITE, EDIT, READ dan DELETE Data Geospasial - Pertemuan 6 GIS"
 </h3>
 
 
