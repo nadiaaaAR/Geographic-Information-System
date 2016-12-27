@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/nadiaaaAR/Keamanan-Jaringan/blob/master/img/mapserver.jpg">
+  <img src="https://github.com/nadiaaaAR/Geographic-Information-System/blob/master/img/mapserver.jpg">
 </p>
 
 
