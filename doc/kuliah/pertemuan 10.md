@@ -44,13 +44,13 @@ Panel, tipe MapPanes, menetapkan urutan tumpukan untuk layer berbeda pada peta. 
 <p>5.	floatShadow berisi bayangan jendela informasi. Panel ini berada di atas overlayImage, sehingga marker bisa berada dalam bayangan jendela informasi. (Panel 4).</p>
 <p>6.	overlayMouseTarget berisi elemen yang menerima kejadian mouse DOM, seperti target transparan untuk marker. Panel ini berada di atas floatShadow, sehingga marker yang berada dalam bayangan jendela informasi bisa diklik. (Panel 5).</p>
 <p>7.	floatPane berisi jendela informasi. Panel ini berada di atas semua overlay peta. (Panel 6).</p></p>
-
+<!--/
 <!DOCTYPE html>
 <html>
   <head>
     <title>Overlay</title>
     <link rel="stylesheet" href="https://openlayers.org/en/v3.20.1/css/ol.css" type="text/css">
-    <!-- The line below is only needed for old environments like Internet Explorer and Android 4.x -->
+    he line below is only needed for old environments like Internet Explorer and Android 4.x 
     <script src="https://cdn.polyfill.io/v2/polyfill.min.js?features=requestAnimationFrame,Element.prototype.classList,URL"></script>
     <script src="https://openlayers.org/en/v3.20.1/build/ol.js"></script>
     <script src="https://code.jquery.com/jquery-2.2.3.min.js"></script>
@@ -95,13 +95,13 @@ Panel, tipe MapPanes, menetapkan urutan tumpukan untuk layer berbeda pada peta. 
   <body>
     <div id="map" class="map"></div>
     <div style="display: none;">
-      <!-- Clickable label for Vienna -->
+      Clickable label for Vienna 
       <a class="overlay" id="bandung" target="_blank" href="https://id.wikipedia.org/wiki/Kota_Bandung">Bandung</a>
       <div id="marker" title="Marker"></div>
-      <!-- Clickable label for Vienna -->
+      Clickable label for Vienna 
       <a class="overlay" id”bulukumba" target="_blank" href="https://id.wikipedia.org/wiki/bulukumba">Bulukumba</a>
       <div id="marker1" title="Marker"></div>
-      <!-- Popup -->
+      Popup 
       <div id="popup" title="Welcome to My Maps"></div>
     </div>
     <script>
@@ -182,12 +182,13 @@ Panel, tipe MapPanes, menetapkan urutan tumpukan untuk layer berbeda pada peta. 
       });
     </script>
   </body>
-</html>
+</html> 
+-->
 
 **Hasil Praktikum :**
 
 <p align="center">
-  <img src="https://github.com/nadiaaaAR/Geographic-Information-System/blob/master/img/map.png">
+  <img src="https://github.com/nadiaaaAR/Geographic-Information-System/blob/master/img/map.PNG">
 </p>
 
 **3. Penutup**
@@ -196,7 +197,7 @@ Panel, tipe MapPanes, menetapkan urutan tumpukan untuk layer berbeda pada peta. 
 
 Overlay merupakan proses penempatan grafis suatu peta diatas grafis peta lainnya agar menghasilkan gabungan kedua peta yang memiliki informasi atribut dari kedua peta tersebut. Teknik overlay dalam sistem informasi geografis ada 2 yaitu gabungan (union) dan irisan (intersect).
 
-*b. Saran**
+**b. Saran**
 
 Selanjutnya untuk mendalami materi Overlay  dengan membaca sumber-sumber yang tersedia di buku maupun internet , dan melakukan praktikum mandiri.
 -------
