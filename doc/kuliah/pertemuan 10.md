@@ -45,7 +45,8 @@ Panel, tipe MapPanes, menetapkan urutan tumpukan untuk layer berbeda pada peta. 
 <p>6.	overlayMouseTarget berisi elemen yang menerima kejadian mouse DOM, seperti target transparan untuk marker. Panel ini berada di atas floatShadow, sehingga marker yang berada dalam bayangan jendela informasi bisa diklik. (Panel 5).</p>
 <p>7.	floatPane berisi jendela informasi. Panel ini berada di atas semua overlay peta. (Panel 6).</p></p>
 
----------------------------------
+
+<div class="content">
 <!DOCTYPE html>
 <html>
   <head>
@@ -184,9 +185,10 @@ Panel, tipe MapPanes, menetapkan urutan tumpukan untuk layer berbeda pada peta. 
     </script>
   </body>
 </html> 
+</div>
 
---------------------------------------
 
+<br><br>
 **Hasil Praktikum :**
 
 <p align="center">
