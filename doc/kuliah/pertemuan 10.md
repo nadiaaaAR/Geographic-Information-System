@@ -44,7 +44,8 @@ Panel, tipe MapPanes, menetapkan urutan tumpukan untuk layer berbeda pada peta. 
 <p>5.	floatShadow berisi bayangan jendela informasi. Panel ini berada di atas overlayImage, sehingga marker bisa berada dalam bayangan jendela informasi. (Panel 4).</p>
 <p>6.	overlayMouseTarget berisi elemen yang menerima kejadian mouse DOM, seperti target transparan untuk marker. Panel ini berada di atas floatShadow, sehingga marker yang berada dalam bayangan jendela informasi bisa diklik. (Panel 5).</p>
 <p>7.	floatPane berisi jendela informasi. Panel ini berada di atas semua overlay peta. (Panel 6).</p></p>
-<!--/
+
+---------------------------------
 <!DOCTYPE html>
 <html>
   <head>
@@ -183,7 +184,8 @@ Panel, tipe MapPanes, menetapkan urutan tumpukan untuk layer berbeda pada peta. 
     </script>
   </body>
 </html> 
--->
+
+--------------------------------------
 
 **Hasil Praktikum :**
 
@@ -194,13 +196,11 @@ Panel, tipe MapPanes, menetapkan urutan tumpukan untuk layer berbeda pada peta. 
 **3. Penutup**
 
 **a. Kesimpulan**
-
 Overlay merupakan proses penempatan grafis suatu peta diatas grafis peta lainnya agar menghasilkan gabungan kedua peta yang memiliki informasi atribut dari kedua peta tersebut. Teknik overlay dalam sistem informasi geografis ada 2 yaitu gabungan (union) dan irisan (intersect).
 
-**b. Saran**
 
+**a. Kesimpulan**
 Selanjutnya untuk mendalami materi Overlay  dengan membaca sumber-sumber yang tersedia di buku maupun internet , dan melakukan praktikum mandiri.
--------
 
 **Link Github** 	            :  https://github.com/nadiaaaAR/Geographic-Information-System<br>
 
@@ -214,7 +214,6 @@ a. searchenginereport     :   https://drive.google.com/open?id=0B831iVXSuoJcd2Nl
 b. smallseotools	      :   https://drive.google.com/open?id=0B831iVXSuoJcTlVKa1ZWTkRTU2s<br>
 
                       
--------
 
 > - Fullname 				 : Nadia Ayu Lestari Arifin
 > - Nickname 				 : Nadia
